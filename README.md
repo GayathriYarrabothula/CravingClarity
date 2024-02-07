@@ -16,7 +16,7 @@ By simply uploading a food image,it offers various functionalities:
 
 1.Python
 
-2.Google Generative AI
+2.Google Generative AI(Gemini Pro Vision)
 
 3.Streamlit
 
